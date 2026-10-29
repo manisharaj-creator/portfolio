@@ -1,1 +1,23 @@
-hello
+# Dr. Manisha Singh — Portfolio
+
+Personal portfolio for Dr. Manisha Singh: cancer research, biotechnology strategy, research translation, writing, and teaching.
+
+A responsive static website built with HTML, CSS, and JavaScript. No build step or package installation is required.
+
+## Preview locally
+
+Run `python3 -m http.server 4173` from this directory, then open http://localhost:4173.
+
+## Files
+
+- `index.html`: portfolio content and structure
+- `style.css`: responsive design
+- `script.js`: accessible writing and teaching tabs
+- `resume.pdf`: downloadable résumé
+- `manisha-headshot.png`: portrait
+
+The research illustrations are conceptual SVGs embedded in the HTML. Fonts are loaded from Google Fonts, with system fallbacks.
+
+## Hosting
+
+Serve this directory with any static website host. It can also be published with GitHub Pages using the main branch and repository root. Pushing this repository does not automatically enable GitHub Pages.
